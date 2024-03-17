@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(to right,#2E3192,#1BFFFF);
+  }
+  /* div{
+    display: inline-block;
+    width: 600px;
+    height: 600px;
+  }
+  img{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 150px; */
+
+.btn{
+    display: grid;
+    grid-template-rows: 100%;
+    margin-bottom: 30px;
+  }
+.slide1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
