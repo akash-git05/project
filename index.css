@@ -13,7 +13,7 @@ body{
 
 .btn{
     display: grid;
-    grid-template-rows: 100%;
+    grid-template-rows: 1fr;
     margin-bottom: 30px;
   }
 .slide1{
